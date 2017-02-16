@@ -1,0 +1,1 @@
+Week 01 belajar mengenai git push and pull tutorial, membuat folder dan file , menghapus folder dan file.
