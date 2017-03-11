@@ -1,0 +1,10 @@
+/home/fasilkom/mahasiswa/a/andhika.ragil/.gnupg/pubring.gpg
+-----------------------------------------------------------
+pub   4096R/4EA53EAD 2017-03-04 [expires: 2017-08-31]
+uid                  Andhika Ragil Kesuma (OS EXT ANDHIKA) <andhika.ragil@ui.ac.id>
+sub   4096R/A32E5D7E 2017-03-04 [expires: 2017-08-31]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-08-23]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-08-23]
+
