@@ -1,8 +1,0 @@
-Hello, this is explanation abaout linux booting!
-Booting adalah proses membaca seluruh hardware dari keadaan mati 
-hingga mencapai kondisi dimana komputer siap untuk digunakan.
-
-Sumber: 
-http://www.pengertianahli.com/2014/06/pengertian-booting-apa-itu-booting.html
-
-

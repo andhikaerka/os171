@@ -1,6 +1,0 @@
-===================
-varchar0: value =  a, address = 0x600a88
-varchar1: value =  b, address = 0x600a89
-varchar2: value =  c, address = 0x600a8a
-varchar3: value =  d, address = 0x600a8b
-===================
